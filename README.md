@@ -1,2 +1,2 @@
-# PracticingTheory
-This is just a chaching project that I am using to better understand the computer theory fundementals that I may have missed
+This is just a project I'm using to better learn/understand computer theory,
+and get a better grasp on C++
